@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+
+		<title>Pagina Prinicipal</title>
+		<link>https://satcesc.com/web/</link>
+		<description>hola</description>
+		<item>
+			<title>Viark droid</title>
+			<link>http://www.google.es</link>
+			<description>
+				Hoal 2
+			</description>
+
+		</item>
+
+		<item>
+			<title>Fonestar</title>
+			<link>https://www.pccomponentes.com/</link>
+			<description>
+				hola 3
+			</description>
+
+		</item>
+
+	</channel>
+</rss>
