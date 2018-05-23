@@ -1,3 +1,13 @@
+#comparte1{
+	color: white;
+	text-size: 40%
+}
+
+#comparte2{
+	color:white;
+	font-size: 24px;
+}
+
 #abajo {
 	background-color:#0b4c5f;
 	margin-top: 7%;
@@ -141,6 +151,9 @@ img.mediana{
 	.noticias
 	{
 		font-size: 14px;
+	}
+	#comparte2{
+	color:white;
 	}
 
 	.imagenNoticia
