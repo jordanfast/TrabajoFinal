@@ -143,6 +143,11 @@ img.mediana{
 .container{
 	margin-left: 0px;
 }
+	.btn{  
+	margin-left: 30%;
+    	width: 45%;
+    	margin-top: 4%;
+}
 	#abajo {
    	background-color: #0b4c5f;
    	margin-top: 3%;
