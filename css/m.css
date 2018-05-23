@@ -1,0 +1,186 @@
+#abajo {
+	background-color:#0b4c5f;
+	margin-top: 7%;
+	color: white;
+	text-align:center;
+}
+#boton{
+	margin-left: 36%;
+    font-size: 43px;
+    background-color: #0b4c5f;
+    color: white;
+}
+#ttt{
+	font-size: 36px;
+    text-align: center;
+	text-decoration: underline;
+	margin-top: 8%;
+	
+}
+h3{
+	color:white;
+	margin-left:10%;
+	text-decoration: underline;
+}
+article
+{
+	margin: 30px 20px;
+	
+}
+
+img.mediana{
+	width: 280px;
+    height: 150px;
+}
+
+#cabecera
+{
+	padding: 0px;
+	background: #0B4C5F;
+	color: white;
+}
+
+
+
+#youtube
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 80%;
+	height: 50%;
+	margin-left: 10%;
+	margin-top: 5%;
+}
+
+#News1
+{
+	margin-bottom: 50px;
+}
+
+#News2
+{
+	margin-bottom: 50px;
+}
+.imagenNoticianoti1y2{
+	width: 70%;
+	margin: auto;
+	margin-top: 5%;
+	margin-left: 17%
+	
+}
+
+#News3
+{
+	margin-bottom: 50px;
+}
+
+.imagenNoticia
+{
+	width: 40%;
+	margin: 40px auto;
+}
+
+.noticias
+{
+	margin-top: 15px;
+	text-align: justify;
+	background: #0B4C5F;
+	padding: 20px 20px ;
+	color: #c68400;
+	
+}
+
+.titular
+{
+	text-align: center;
+	position: relative;
+	left: -55px;
+	color: white;
+}
+
+#publicidad
+{
+	margin-top: 377px;
+	right: 0%;
+    position: absolute;
+    width: 336px;
+    height: 600px;
+}
+
+#publicidadMovil
+{
+	display: none;
+}
+
+
+.fecha
+{
+	float: right;
+}
+
+
+@media (min-width: 760px){
+	.container{
+		padding-right: 310px;
+	}
+	
+}
+
+ 
+@media (max-width: 760px) 
+{
+.container{
+	margin-left: 0px;
+}
+	#abajo {
+    background-color: #0b4c5f;
+    margin-top: 25%;
+	text-align:center;
+	}
+	.noticias
+	{
+		font-size: 14px;
+	}
+
+	.imagenNoticia
+	{
+		width: 75%;
+		margin: 40px auto;
+	}
+
+	#youtube
+	{
+		margin-top: 20px;
+		margin-bottom: 20px;
+		width: 90%;
+		height: 22%;
+	}
+
+	.titular
+	{
+		left: 0px;
+	}
+
+	article
+	{
+		margin: 27px 20px;
+		font-size: 14px;
+	}
+
+	#publicidadMovil
+	{
+		display: block;
+		margin-left: 5%;
+		margin-top: -6%;
+	}
+	#boton{
+	margin-left: 19%;
+    font-size: 35px;
+    background-color: #0b4c5f;
+    color: white;
+	
+	}
+	#publicidad{
+		display:none;
+	}
+}
