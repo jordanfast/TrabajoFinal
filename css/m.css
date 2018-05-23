@@ -1,8 +1,8 @@
-#comparte1{
-	color: white;
-	text-size: 40%
+.btm{  
+	margin-left: 30%;
+    	width: 20%;
+    	margin-top: 2%;
 }
-
 #comparte2{
 	color:white;
 	font-size: 24px;
@@ -16,13 +16,13 @@
 }
 #boton{
 	margin-left: 36%;
-    font-size: 43px;
-    background-color: #0b4c5f;
-    color: white;
+	font-size: 43px;
+   	background-color: #0b4c5f;
+    	color: white;
 }
 #ttt{
 	font-size: 36px;
-    text-align: center;
+    	text-align: center;
 	text-decoration: underline;
 	margin-top: 8%;
 	
