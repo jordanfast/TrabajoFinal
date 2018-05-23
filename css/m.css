@@ -176,11 +176,18 @@ img.mediana{
 	}
 	#boton{
 	margin-left: 19%;
-    font-size: 35px;
-    background-color: #0b4c5f;
-    color: white;
-	
+    	font-size: 35px;
+    	background-color: #0b4c5f;
+    	color: white;
 	}
+	.btn {
+		margin-left: 30%;
+		width: 38%;
+		 padding-right: 15px;
+		padding-left: 15px;
+		border-radius: 0px;
+		margin-top: 4%;
+		}
 	#publicidad{
 		display:none;
 	}
