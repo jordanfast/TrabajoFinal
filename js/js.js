@@ -1,5 +1,8 @@
+<!-- Creamos 2 variables  -->
 var nnoticias=1;
 var maxnoticias=2;
+
+<!-- Hacemoos la funcion del boton -->
 
 $(function() {
 		$("button").click(function() {
@@ -21,15 +24,19 @@ function mostrarNombres(nombres){
 });
 
 
-
+<!-- Creamos variables -->
 
 var contador = 1;
 var temporizador = setInterval(myTimer, 1000);
+
+<!--En esta variable estaran las imagenes -->
 
 var c=[];
 c [0]="img/publi.jpg"
 c [1]="img/publigrande.jpg"
 c [2]="img/publigrande2.jpg"
+
+<!-- Creamos la funcion   -->
 
 function myTimer() {
 contador++;
@@ -39,10 +46,15 @@ if (contador==3) contador=0;
  var contador2 = 1;
  var temporizador2 = setInterval(myTimer2, 2000);
 
+<!--En esta variable estaran las imagenes -->
+
 var b=[];
 b [0]="img/publimini1.png"
 b [1]="img/publimini2.png"
 b [2]="img/publimini3.png"
+
+
+<!-- Creamos la funcion   -->
 
 function myTimer2() {
 contador2++;
