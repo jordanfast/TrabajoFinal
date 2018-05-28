@@ -4,12 +4,10 @@
 	color: white;
 	text-align:center;
 }
-#boton{
-	margin-left: 36%;
-    font-size: 43px;
-    background-color: #0b4c5f;
-    color: white;
-}
+ #boton{
+	background-color:red;
+	margin-top:18px;
+	border-bottom-color:black;
 #ttt{
 	font-size: 36px;
     text-align: center;
@@ -57,21 +55,13 @@ img.mediana{
 	margin-bottom: 50px;
 }
 
-#News2
-{
-	margin-bottom: 50px;
-}
+
 .imagenNoticianoti1y2{
 	width: 70%;
 	margin: auto;
 	margin-top: 5%;
 	margin-left: 17%
 	
-}
-
-#News3
-{
-	margin-bottom: 50px;
 }
 
 .imagenNoticia
@@ -174,8 +164,8 @@ img.mediana{
 		margin-top: -6%;
 	}
 	#boton{
-	margin-left: 19%;
-    font-size: 35px;
+	margin-left: 24%;
+    font-size: 27px;
     background-color: #0b4c5f;
     color: white;
 	
