@@ -8,11 +8,12 @@ $(function() {
 		$("button").click(function() {
 			if (nnoticias <= maxnoticias){
 				$.getJSON("https://rawgit.com/jordanfast/TrabajoFinal/master/data/data"+nnoticias+".json", function( nombres ) {
-					nnoticias++;
 					mostrarNombres( nombres );
+					if (nnoticias==2){$("#boton").html("No hay más noticias")}
+					nnoticias++;
+					
 				});
-			}else{
-			};
+			}
 });
 
 function mostrarNombres(nombres){
