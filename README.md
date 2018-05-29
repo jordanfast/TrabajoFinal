@@ -18,5 +18,7 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 <li>Diseño para versión Movil.</li> 
 <a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" width="60%";"></a></li>
 </ul>
-<li>En index hay 3 noticias en html y 2 ficheros jason (data1 y data2) que en cada fichero jason hay 3 noticias que son cargadas con JS  <li> Hay un RSS en xml en la carpeta rss.</li> 
-<li>News1.html</li>  
+<li>En index.html hay 3 noticias en html y 2 ficheros jason (data1 y data2) que en cada fichero jason hay 3 noticias que son cargadas con JS  <li> Hay un RSS en xml en la carpeta rss.</li> 
+<li>News1.html y news2.html son 2 noticias en html contiene -> titulo,texto y un video de youtube funcionando correctamente. </li>
+<li>index.html , news2.html y news1.html contienen etiquetas meta </li>
+<li>Añadido icono donde esta la pestaña.</li>
