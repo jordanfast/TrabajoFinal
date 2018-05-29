@@ -16,6 +16,6 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 <a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg" alt="Planificació" style="max-width:50%;"></a></li>
 </ul>
 <li>Diseño para versión Movil.
-<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" style="max-width:50%;"></a></li>
+<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" width:50%;"></a></li>
 </ul>
 
