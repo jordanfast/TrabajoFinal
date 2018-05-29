@@ -12,10 +12,10 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
   <li>Pie de pagina -> Esta abajo del todo y contiene el año de hoy , mi nombre y el nombre de la página.</li> 
 </ul>
 <ul>
-<li>Diseño para versión Desktop.
-<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg" alt="Planificació" width="70%";"></a></li>
+<li>Diseño para versión Desktop.</li> 
+<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg" alt="Planificació" width="60%";"></a></li>
 </ul>
 <li>Diseño para versión Movil.
-<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" width:50%;"></a></li>
+<a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" width="60%";"></a></li>
 </ul>
 
