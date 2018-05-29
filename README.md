@@ -18,3 +18,4 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 <li>Diseño para versión Movil.
 <a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" style="max-width:50%;"></a></li>
 </ul>
+
