@@ -10,6 +10,8 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
   <li>NOTICIAS -> Consta de 3 noticias ya cargadas y que tienen un titulo centrado , un poco de texto, una img centrado y abajo a la derecha esta la fecha. Todas las noticias tiene el mismo formato para que sea agradable para la vista.</li> 
   <li>Cargar más -> El botón esta ubicado abajo de las noticias y arriba del pie de página.  </li> 
   <li>Pie de pagina -> Esta abajo del todo y contiene el año de hoy , mi nombre y el nombre de la página.</li> 
-  
-  
+</ul>
+<ul>
+<li>Diseño para versión Desktop.
+<a target="_blank" href="https://rawgit.com/jordanfast/TrabajoFinal/img/desktop"><img src="https://github.com/seergi93/NewsPage_Bootstrap/raw/master/img/pla.jpg" alt="Planificació" style="max-width:100%;"></a></li>
 </ul>
