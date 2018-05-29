@@ -15,7 +15,8 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 <li>Diseño para versión Desktop.</li> 
 <a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/desktop.jpg" alt="Planificació" width="60%";"></a></li>
 </ul>
-<li>Diseño para versión Movil.
+<li>Diseño para versión Movil.</li> 
 <a target="_blank" href="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg"><img src="https://raw.githubusercontent.com/jordanfast/TrabajoFinal/master/img/movil.jpg" alt="Planificació" width="60%";"></a></li>
 </ul>
-
+<li>En index hay 3 noticias en html y 2 ficheros jason (data1 y data2) que en cada fichero jason hay 3 noticias que son cargadas con JS  <li> Hay un RSS en xml en la carpeta rss.</li> 
+<li>News1.html</li>  
