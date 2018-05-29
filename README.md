@@ -13,5 +13,5 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 </ul>
 <ul>
 <li>Diseño para versión Desktop.
-<a target="_blank" href="https://rawgit.com/jordanfast/TrabajoFinal/img/desktop.jpg"><img src="https://rawgit.com/jordanfast/TrabajoFinal/img/desktop.jpg" alt="Planificació" style="max-width:50%;"></a></li>
+<a target="_blank" href="https://github.com/jordanfast/TrabajoFinal/img/desktop.jpg"><img src="https://github.com/jordanfast/TrabajoFinal/img/desktop.jpg" alt="Planificació" style="max-width:50%;"></a></li>
 </ul>
