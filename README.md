@@ -6,7 +6,7 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 <li>2x archivos .json</li>
 <li>imagenes</li>
 <li>1x archivo .js</li>
-<li>3x .html</li>
+<li>3x archivos .html</li>
 
 <h2>Especificaciones:</h2>
 <ul>
