@@ -20,5 +20,5 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
 </ul>
 <li>En index.html hay 3 noticias en html y 2 ficheros jason (data1 y data2) que en cada fichero jason hay 3 noticias que son cargadas con JS  <li> Hay un RSS en xml en la carpeta rss.</li> 
 <li>News1.html y news2.html son 2 noticias en html contiene -> titulo,texto y un video de youtube funcionando correctamente. </li>
-<li>index.html , news2.html y news1.html contienen etiquetas meta </li>
+<li>index.html , news2.html y news1.html contienen etiquetas meta. </li>
 <li>Añadido icono donde esta la pestaña.</li>
