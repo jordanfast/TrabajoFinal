@@ -8,7 +8,7 @@ https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
   <li>Publicidad movil estara debajo del menu y por arriba de la cabezera de 90px, al igual que la versión desktop , esta rotara imagenes  cada 2000 milisegundos para aparentar una publicidad real.</li> 
   <li>CABECERA -> Consta de una img "deco" , de un titulo y de un subtitulo estan centradas.</li> 
   <li>NOTICIAS -> Consta de 3 noticias ya cargadas y que tienen un titulo centrado , un poco de texto, una img centrado y abajo a la derecha esta la fecha. Todas las noticias tiene el mismo formato para que sea agradable para la vista.</li> 
-  <li>CARGAR MAS I/O BOTON-> Esta ubicado abajo de las noticias y arriba del pie de página.  </li> 
+  <li>BOTON-> Esta ubicado abajo de las noticias y arriba del pie de página.Al hacer clic sobre el se verán 3 noticias diferentes y al hacer clic otra vez sobre el boton se verán 3 noticias diferentes.  </li> 
   <li>FOOTER -> Esta abajo del todo y contiene el año de hoy , mi nombre y el nombre de la página.</li> 
 </ul>
 <ul>
