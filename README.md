@@ -1,6 +1,6 @@
-# TrabajoFinal
+# TrabajoFinal minimificado
 
-https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
+https://rawgit.com/jordanfast/TrabajoFinal/mini/indexmini.html
 <h2>Contenido:</h2>
 <li>1x  archivo .CSS .</li>
 <li>2x archivos .json .</li>
