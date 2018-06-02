@@ -1,7 +1,14 @@
 # TrabajoFinal
 
 https://rawgit.com/jordanfast/TrabajoFinal/master/index.html
-<h2>Especificaciones</h2>
+<h2>Contenido:</h2>
+<li>1x  archivo .CSS</li>
+<li>2x archivos .json</li>
+<li>imagenes</li>
+<li>1x archivo .js</li>
+<li>3x .html</li>
+
+<h2>Especificaciones:</h2>
 <ul>
   <li>MENU -> Contiene home que recarga la pagina principal, y las 2 primeras noticias.</li>
   <li>PUBLICIDAD DESKTOP -> se ha dejado 336px a la derecha, Van rotando unas series de imagenes en 2000 milisegundos para aparentar una publicidad real.</li> 
